@@ -1,3 +1,6 @@
 # salasehdpr-TareasUEA5
-#Tareas
-Tarea 1: Enrique Salas Galindo
+#Mi repositorio
+Enrique Salas Galindo 
+UEA V
+Arte y Comunicación Digitales 
+Quinto Trimestre
